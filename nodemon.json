@@ -1,0 +1,7 @@
+{
+    "verbose": true,
+    "ignore": ["formList.csv"],
+    "execMap": {
+        "csv": ".csv"
+    }
+}
