@@ -1,8 +1,6 @@
 # Movie-recommendation-system
 
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
