@@ -14,8 +14,7 @@
   <p align="center">
     An awesome UI software which can recommend you movies,webshows!! 
     <br />
-    
-    <br />
+    <p align="center">
     <a href="https://www.youtube.com/watch?v=k5e0udGD1OM&ab_channel=NisargDoshi">View Demo</a>
   </p>
 </p>
